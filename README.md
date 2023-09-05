@@ -1,5 +1,9 @@
 ![Ostyantic](./images/Ostyantic.png)
 
+<!-- <p align="center"> 
+<img src="https://komarev.com/ghpvc/?username=Ostyantic&color=blueviolet" alt="visitor badge"/>
+</p> -->
+
 <p align="center">
   <a href="https://www.linkedin.com/in/antalopez/">
   <img height="30" src="./images/LinkedIn.png"></a>
